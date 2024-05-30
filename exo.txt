@@ -1,0 +1,25 @@
+// Exercice:
+// Le but de l'exo c'est d'avoir une page d'authentification (connexion et inscription):
+
+// Créer un dossier authentification avec:
+// _layout: utilise la navigation en tab
+// index.jsx: Forumaire de connexion
+// register.jsx: Formulaire d'inscription
+
+
+// Exercice:
+// layout principale:
+// Créer un context
+// Ajouter une variable d'atat user et setUser
+// Ajouter le Provider avec les valeur user et setUser
+
+// Dans connexion (index);
+// Utiliser le contect pour mettre email dans la variable d'état user
+
+
+// Exercice:
+// Créer une dossier profile:
+// 1. Ajouter Layout en mode Stack
+// 2. Fichier index.jsx: Utiliser le contexte pour afficher l'email de l'utilisateur
+// 3. Chercher dans la documentation comment rediriger l'utilisateur.
+// 4. Rediriger l'utilisateur vers la page de profile après la connexion 
